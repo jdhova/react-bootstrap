@@ -13,7 +13,7 @@ const Nav = () => {
     <Navbar.Collapse className="justify-content-end">
       <Navbar.Text>
           <ul className='links'>
-            <li>   <a href="/food">Recipe</a></li>
+            <li>   <a href="/food">Food</a></li>
             <li>   <a href="/cake">Confectionary</a></li>
             <li>   <a href="/drinks">Drinks</a></li>
           </ul>

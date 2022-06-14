@@ -15,3 +15,55 @@ video {
   height: 100%;
   object-fit: cover;
 }
+
+.links li {
+  list-style-type: none;
+  padding-left: 40px;
+}
+.main li {
+  list-style-type: none;
+  padding: 40px;
+  color: antiquewhite;
+}
+.cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+
+
+/* .here{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+} */
+
+/* .main {
+  display: flex;
+ justify-content: center;
+ align-items: center;
+ background: silver;
+ width: 100%;
+ height: 20%;
+  
+  
+} */
+
+.main{
+  display: flex;
+  font-size: 50px;
+  flex-direction: row;
+  position: absolute;
+  left: 30%;
+  top: 50%;
+  text-decoration: none;
+  
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
