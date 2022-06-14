@@ -8,7 +8,7 @@ const Nav = () => {
         
 <Navbar>
   <Container>
-    <Navbar.Brand href="/home">Logo</Navbar.Brand>
+    <Navbar.Brand href="/">Logo</Navbar.Brand>
     <Navbar.Toggle />
     <Navbar.Collapse className="justify-content-end">
       <Navbar.Text>
