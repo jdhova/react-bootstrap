@@ -8,12 +8,12 @@ const Nav = () => {
         
 <Navbar>
   <Container>
-    <Navbar.Brand href="/">Logo</Navbar.Brand>
+    <Navbar.Brand href="#home">Logo</Navbar.Brand>
     <Navbar.Toggle />
     <Navbar.Collapse className="justify-content-end">
       <Navbar.Text>
           <ul className='links'>
-            <li>   <a href="/food">Food</a></li>
+            <li>   <a href="/food">Recipe</a></li>
             <li>   <a href="/cake">Confectionary</a></li>
             <li>   <a href="/drinks">Drinks</a></li>
           </ul>
@@ -28,3 +28,4 @@ const Nav = () => {
 }
 
 export default Nav
+

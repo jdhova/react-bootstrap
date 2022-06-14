@@ -24,7 +24,17 @@ video {
   list-style-type: none;
   padding: 40px;
   color: antiquewhite;
+  text-decoration: none;
 }
+
+.main a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* main a:link {
+  color: red;
+} */
 .cover {
   position: absolute;
   width: 100%;
