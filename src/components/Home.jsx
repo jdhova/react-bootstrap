@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className='Home'> 
     <div className='cover '></div>
-        <video src={video} autoPlay loop muted/>    
+    <video src={video} autoPlay loop muted/>      
         <div className="main">
 
             <li>   <a href="/food" target="_blank">Food</a></li>

@@ -14,10 +14,9 @@ const Nav = () => {
       <Navbar.Text>
           <ul className='links'>
             <li>   <a href="/food">Food</a></li>
-            <li>   <a href="/cake">Confectionary</a></li>
+            <li>   <a href="/confectionary">Confectionary</a></li>
             <li>   <a href="/drinks">Drinks</a></li>
           </ul>
-        
       </Navbar.Text>
     </Navbar.Collapse>
   </Container>
