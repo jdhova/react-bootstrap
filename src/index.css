@@ -42,7 +42,26 @@ video {
   background-color: rgba(0,0,0,0.5);
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 60px;
+  color: aliceblue;
+  background-color: #282c34;
+  /* width:20px */
+}
+.nav{
+  background-color: wheat;
+  color: antiquewhite;
 
+}
+/* .nav li {
+  list-style-type: none;
+  padding-left: 40px;
+  color: antiquewhite;
+} */
 /* .here{
   position: absolute;
   left: 50%;
