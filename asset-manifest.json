@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap/static/css/main.75e6d8bc.css",
+    "main.js": "/react-bootstrap/static/js/main.42c83a31.js",
+    "static/js/787.9b79b50a.chunk.js": "/react-bootstrap/static/js/787.9b79b50a.chunk.js",
+    "static/media/vid.mp4": "/react-bootstrap/static/media/vid.772e6ed46f0760bcee0b.mp4",
+    "static/media/rice1.jpeg": "/react-bootstrap/static/media/rice1.7123f8d7e6c928b16d9e.jpeg",
+    "static/media/chaat.jpeg": "/react-bootstrap/static/media/chaat.5c412b7bb32326ba1056.jpeg",
+    "static/media/eba.jpeg": "/react-bootstrap/static/media/eba.becce4ad2379bd11eb82.jpeg",
+    "static/media/d-nuts.jpeg": "/react-bootstrap/static/media/d-nuts.ed6adb97517e79f0435d.jpeg",
+    "static/media/barfi.jpeg": "/react-bootstrap/static/media/barfi.bc4b452151cb4b87778e.jpeg",
+    "static/media/yam.jpeg": "/react-bootstrap/static/media/yam.b6b2d775338ceb307b13.jpeg",
+    "static/media/ch-cake.jpeg": "/react-bootstrap/static/media/ch-cake.ca63d516c2845539aa75.jpeg",
+    "index.html": "/react-bootstrap/index.html",
+    "main.75e6d8bc.css.map": "/react-bootstrap/static/css/main.75e6d8bc.css.map",
+    "main.42c83a31.js.map": "/react-bootstrap/static/js/main.42c83a31.js.map",
+    "787.9b79b50a.chunk.js.map": "/react-bootstrap/static/js/787.9b79b50a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e6d8bc.css",
+    "static/js/main.42c83a31.js"
+  ]
+}
