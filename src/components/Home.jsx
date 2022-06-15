@@ -11,7 +11,7 @@ const Home = () => {
         <div className="main">
 
             <li>   <a href="/food" target="_blank">Food</a></li>
-            <li>   <a href="/cake" target="_blank">Confectionary</a></li>
+            <li>   <a href="/confectionary" target="_blank">Confectionary</a></li>
             <li>   <a href="/drinks" target="_blank">Drinks</a></li>
     </div>
   </div>
